@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\Android\Application\imooc-tab03\src\main\shaders"/></dataSet><dataSet config="debug"><source path="D:\Android\Application\imooc-tab03\build-types\debug\shaders"/></dataSet></merger>
